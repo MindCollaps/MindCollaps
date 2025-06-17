@@ -2,7 +2,7 @@
 # Noah Elijah Till aka MindCollaps or DoktorWu
 > "Paid to unleash chaos, passionate about crafting order."
 
-👜 Working at Deutsche Telekom Security GmbH as securty and penetarion tester
+👜 Working at Deutsche Telekom Security GmbH as security and penetration tester
 
 👨‍🎓 Dual study program at Deutsche Telekom B.Sc IT-Security
 
